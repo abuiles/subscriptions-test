@@ -27,5 +27,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "actioncable": "^5.2.3",
+    "apollo-cache-inmemory": "^1.5.1",
+    "apollo-client": "^2.5.1",
+    "apollo-link-http": "^1.5.14",
+    "graphql-ruby-client": "^1.6.3",
+    "graphql-tag": "^2.10.1",
+    "react-apollo": "^2.5.5"
   }
 }
